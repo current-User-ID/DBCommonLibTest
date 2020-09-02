@@ -91,7 +91,7 @@ DBCommonLibTest为标贝科技iOSSDK基础库,集成TTS、ASR等SDK必须集成�
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "DBCommon.framework/**/*"
+  spec.source_files  = "DBCommon.framework/**/*.{h,m}"
   spec.exclude_files = "Classes/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
