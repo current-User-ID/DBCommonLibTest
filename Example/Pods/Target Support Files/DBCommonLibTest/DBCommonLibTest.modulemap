@@ -1,0 +1,6 @@
+framework module DBCommonLibTest {
+  umbrella header "DBCommonLibTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
