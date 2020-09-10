@@ -4,9 +4,17 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.DS_Store</key>
+		<data>
+		3y++sUAKzaCQmjLBz2v0kvESHgc=
+		</data>
 		<key>Headers/DBAuthentication.h</key>
 		<data>
 		GlzSb4DbXy5qN2pUH9mBNe9MK5Y=
+		</data>
+		<key>Headers/DBLogManager.h</key>
+		<data>
+		zgUmX61JTXx0HKq502oGabuJank=
 		</data>
 		<key>Headers/DBNetworkHelper.h</key>
 		<data>
@@ -14,19 +22,23 @@
 		</data>
 		<key>Headers/DBPCMDataPlayer.h</key>
 		<data>
-		xEmTlSEDNob3nKjvOGXcV8pc6CY=
+		gBQGStT5o9R2/UTtImiR7ZkPxnw=
 		</data>
 		<key>Headers/DBSynthesisPlayer.h</key>
 		<data>
 		XYs4YcSNuDoXOAEXqxGqapvwJUE=
 		</data>
+		<key>Headers/DBUncaughtExceptionHandler.h</key>
+		<data>
+		BQiIHdPA0TohPNIcceo27OzQLH8=
+		</data>
 		<key>Headers/DBZSocketRocketUtility.h</key>
 		<data>
-		8DzDYYMSRB7jVhilz9+I19ygJTU=
+		lFldrapdJZ/nGndqeOU81s7rqYg=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		nPhAZ/yXsqSpaacw9VNiMPiqp4Y=
+		RWz1soK1gxRPTfWFz2pGXdCBVKg=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -40,6 +52,17 @@
 			<key>hash2</key>
 			<data>
 			wE60VhkiuOuJvThM9ajDoHKog/7iK9W2jNbQ9Pc96Pw=
+			</data>
+		</dict>
+		<key>Headers/DBLogManager.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zgUmX61JTXx0HKq502oGabuJank=
+			</data>
+			<key>hash2</key>
+			<data>
+			fgye22zyl8CCXKNkbj33aHA0p6vXtdzArvfJ0UgnTMo=
 			</data>
 		</dict>
 		<key>Headers/DBNetworkHelper.h</key>
@@ -57,11 +80,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xEmTlSEDNob3nKjvOGXcV8pc6CY=
+			gBQGStT5o9R2/UTtImiR7ZkPxnw=
 			</data>
 			<key>hash2</key>
 			<data>
-			gQVTnyGFm8rGuiFrTHX7RzwJ4dqML1ym24rsSnB5JIs=
+			ONFOOTUbtEdq6Ce8ht7W+mdynlgNXR6qIyPQzIcoaFQ=
 			</data>
 		</dict>
 		<key>Headers/DBSynthesisPlayer.h</key>
@@ -75,15 +98,26 @@
 			kDMgjG5yNQBv8pvzzyPnTqRYrdUsSEXlCRYBtRdqXpw=
 			</data>
 		</dict>
+		<key>Headers/DBUncaughtExceptionHandler.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BQiIHdPA0TohPNIcceo27OzQLH8=
+			</data>
+			<key>hash2</key>
+			<data>
+			Hn3O9hTmyOaftNH41dxvNEmM7UtoeiN1WyPcTmxD6QA=
+			</data>
+		</dict>
 		<key>Headers/DBZSocketRocketUtility.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8DzDYYMSRB7jVhilz9+I19ygJTU=
+			lFldrapdJZ/nGndqeOU81s7rqYg=
 			</data>
 			<key>hash2</key>
 			<data>
-			BpZW6nBrqLPL4r/rIbiU7xR9/PkRl+M2ZzPhT1tQ7/s=
+			YgoCiTPmGb2luHCWITNUMWLGYbm0lytEzeMrNqudhhU=
 			</data>
 		</dict>
 	</dict>

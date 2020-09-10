@@ -52,9 +52,6 @@ NS_ASSUME_NONNULL_BEGIN
 /// 是否缓存完成
 @property(nonatomic,assign,getter=isFinished)BOOL finished;
 
-/// 播放的过程中因为数据不足而暂停
-@property(nonatomic,assign,getter=isPausePlayIfNeed)BOOL pausePlayIfNeed;
-
 /// 初始化sdk
 /// @param audioType 传入audioType
 - (instancetype)initWithType:(NSString *)audioType;
